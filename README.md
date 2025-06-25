@@ -28,6 +28,10 @@ src/
   types/
     index.ts
 
+##  Screenshot
+
+![Task Manager ](../task-manager/src/assets/image/Screenshot%202025-06-25%20165148.png)
+
 ### 1. Clone the Repository
 
 ```bash
@@ -36,7 +40,4 @@ cd task-manager
 npm install
 npm run 
 
-##  Screenshot
-
-![Task Manager ](../task-manager/src/assets/image/Screenshot%202025-06-25%20165148.png)
 
