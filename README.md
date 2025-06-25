@@ -30,9 +30,7 @@ src/
 
 ##  Screenshot
 
-
-![Task Manager](src/assets/screenshot.png)
-
+![Screenshot 2025-06-25 165148](https://github.com/user-attachments/assets/e6b11cac-d262-463d-a6da-32168246c978)
 
 ### 1. Clone the Repository
 
