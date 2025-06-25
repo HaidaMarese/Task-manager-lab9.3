@@ -30,12 +30,14 @@ src/
 
 ##  Screenshot
 
-![Task Manager ](../task-manager/src/assets/image/Screenshot%202025-06-25%20165148.png)
+
+![Task Manager](src/assets/screenshot.png)
+
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone  https://github.com/HaidaMarese/Task-manager-lab9.3.git
 cd task-manager
 npm install
 npm run 
